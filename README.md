@@ -1,2 +1,2 @@
 # splitty_presentation
-![Screenshot](screenshot.PNG)
+![Screenshot](presentation.PNG)
